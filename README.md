@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 -⚡ My language is Java and Python  
 -⚡ I am experienced in the above languages as well as C++, C#, SQL, SQLite, as well HTML, CSS, Javascript, and PHP  
 -⚡ I have used Laravel, Node JS, and now Springboot frameworks  
--💻 I Aspire to become a Software Developer, who main focus is around backend development
+-💻 I Aspire to become a Software Developer, whose main focus is on backend development  
+-👘 I am an anime Enthusiast, my favourites are Lelouch of the Rebellion, Gurren Lagann, Baka to Test, Dungeon no meshi, ERASED, and 86
+-🏡 I Live in South Around Johannesburg
 
